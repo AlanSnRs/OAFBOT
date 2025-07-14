@@ -13,7 +13,7 @@ import requests
 import qrcode
 
 # Token del bot proporcionado por BotFather
-TOKEN = '7020556961:AAE6fhjoXSHG3DhvylnQB8UsKYHOubEE0uA'
+TOKEN = '7020556961'
 
 # Crear instancia del bot
 bot = telebot.TeleBot(TOKEN)
